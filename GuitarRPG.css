@@ -1,0 +1,34 @@
+body {
+    background-image: url(https://anthonyzolezzi.com/wp-content/uploads/sites/27/2015/03/bigstock-Vintage-style-photo-of-a-crowd-81047348.jpg);
+    background-size: 100%;
+    background-repeat: repeat;
+}
+
+.container {
+    height: 1500px;
+    width: 1000px;
+    position: relative;
+    background-color: red;
+    opacity: 25%;
+}
+
+.footer {
+    margin-top:75px;
+    text-align:center;
+}
+
+.opponentBox {
+    width: 350px;
+    height: 350px;
+    background-color: black;
+}
+
+.playerBox {
+    width: 350px;
+    height: 350px;
+    background-color: black;
+}
+
+#guitar {
+    border: 2px solid red;
+}
